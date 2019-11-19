@@ -43,6 +43,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onClick(View view) {
+        if (view == buttonCreate) {
+        } else if (view == buttonEdit){
 
+        } else if (view == buttonDelete){
+
+        } else if (view == buttonFind){
+
+        }
     }
 }
